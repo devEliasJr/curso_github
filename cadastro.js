@@ -1,4 +1,4 @@
-function singUp(email) {
-    return email;
+function singUp(nome, email) {
+    return nome, email;
 }
 
